@@ -2,7 +2,7 @@
 
 - 기초
   - object_by_reference (파이썬의 특징)
-  - Iterator object(+ generator)
+  - Iterator object (+ generator)
   - Class
      - [캡슐화에서 정보은닉 - 접근지정자[public, protected, private] (+ property )](https://github.com/yahwang/python-note/blob/master/class_private.ipynb)  
 - [numpy](https://github.com/yahwang/python-note/tree/master/numpy)
