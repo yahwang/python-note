@@ -15,3 +15,4 @@
 
 - [강연(or 영상) 정리](https://github.com/yahwang/python-note/tree/master/lectures)
   - [PyCon2018 - Pythonic code가 과연 효율적일까? ( pythonic 코드 performance 테스트 )](https://github.com/yahwang/python-note/blob/master/lectures/pycon_code_performance.ipynb)
+    - dict 합치기, 문자열 fomatting, item 검색
