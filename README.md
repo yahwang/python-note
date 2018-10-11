@@ -16,7 +16,7 @@
   - [np_indexing](https://github.com/yahwang/python-note/tree/master/numpy/np_indexing.ipynb) ( indexing한 변수의 value를 바꿔도 기존 array에도 함께 적용된다. )
   
 - [pandas](https://github.com/yahwang/python-note/tree/master/pandas)
-  - [query - 조건으로 데이터 검색](https://github.com/yahwang/python-note/tree/master/pandas/query.ipynb)
+  - [query - 조건으로 데이터 검색 (+ .query : 효율적인 함수)](https://github.com/yahwang/python-note/tree/master/pandas/query.ipynb)
 
 
 - [강연(or 영상) 정리](https://github.com/yahwang/python-note/tree/master/lectures)
