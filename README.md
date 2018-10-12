@@ -16,6 +16,7 @@
   - [np_indexing](https://github.com/yahwang/python-note/tree/master/numpy/np_indexing.ipynb) ( indexing한 변수의 value를 바꿔도 기존 array에도 함께 적용된다. )
   
 - [pandas](https://github.com/yahwang/python-note/tree/master/pandas)
+  - [데이터 중복에 대한 처리 duplicated](https://github.com/yahwang/python-note/tree/master/pandas/duplicated.ipynb)
   - [query - 조건으로 데이터 검색 (+ .query : 효율적인 함수)](https://github.com/yahwang/python-note/tree/master/pandas/query.ipynb)
 
 
