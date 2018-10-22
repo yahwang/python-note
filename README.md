@@ -11,6 +11,7 @@
 
 - [queue & deque](https://github.com/yahwang/python-note/blob/master/queue&deque.ipynb) 
 - thread & multiprocessing
+- [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)](https://github.com/yahwang/python-note/blob/master/typehint.ipynb) 
 
 - [numpy](https://github.com/yahwang/python-note/tree/master/numpy)
   - [np_indexing](https://github.com/yahwang/python-note/tree/master/numpy/np_indexing.ipynb) ( indexing한 변수의 value를 바꿔도 기존 array에도 함께 적용된다. )
