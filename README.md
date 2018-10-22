@@ -12,7 +12,8 @@
 - [queue & deque](https://github.com/yahwang/python-note/blob/master/queue&deque.ipynb) 
 - thread & multiprocessing
 - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)](https://github.com/yahwang/python-note/blob/master/typehint.ipynb) 
-- [tqdm - progress bar로 반복문 진행상황 시각화](https://github.com/yahwang/python-note/blob/master/tqdm.ipynb) 
+- 부가적
+  - [tqdm - progress bar로 반복문 진행상황 시각화](https://github.com/yahwang/python-note/blob/master/tqdm.ipynb) 
 
 
 
