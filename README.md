@@ -1,7 +1,7 @@
 # python-note
 
 - [기초](https://github.com/yahwang/python-note/tree/master/basics)
-  - [call_by_reference (파이썬의 특징)](https://github.com/yahwang/python-note/tree/master/basics/object_reference.ipynb)
+  - [call_by_object_reference (파이썬의 특징)](https://github.com/yahwang/python-note/tree/master/basics/object_reference.ipynb)
   - [Iterator object (+ generator)](https://github.com/yahwang/python-note/tree/master/basics/iterator(+gen).ipynb)
   - [기본 타입 정렬 (sort)에 대한 정리](https://github.com/yahwang/python-note/tree/master/basics/summary_sort.ipynb)
   - [문자열(String) Formatting 정리 with f-Strings](https://github.com/yahwang/python-note/tree/master/basics/string_format.ipynb)
