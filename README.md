@@ -2,13 +2,13 @@
 
 - [기초](https://github.com/yahwang/python-note/tree/master/basics)
   - [call_by_object_reference (파이썬의 특징)](https://github.com/yahwang/python-note/tree/master/basics/object_reference.ipynb)
-  - [Iterator object (+ generator)](https://github.com/yahwang/python-note/tree/master/basics/iterator(+gen).ipynb)
   - [기본 타입 정렬 (sort)에 대한 정리](https://github.com/yahwang/python-note/tree/master/basics/summary_sort.ipynb)
   - [문자열(String) Formatting 정리 with f-Strings](https://github.com/yahwang/python-note/tree/master/basics/string_format.ipynb)
   - Class
      - [기초 ( + class_method(static_method), 추상 클래스(abstract) )](https://github.com/yahwang/python-note/tree/master/basics/class.ipynb)  
      - [캡슐화에서 정보은닉 - 접근지정자[public, protected, private] (+ property )](https://github.com/yahwang/python-note/tree/master/basics/class_private.ipynb)  
 
+- [Generator](https://github.com/yahwang/python-note/blob/master/generator_tutorial.ipynb)
 - [queue & deque](https://github.com/yahwang/python-note/blob/master/queue&deque.ipynb) 
 - thread & multiprocessing
 - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)](https://github.com/yahwang/python-note/blob/master/typehint.ipynb) 
