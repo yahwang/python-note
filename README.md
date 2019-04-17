@@ -8,10 +8,13 @@
      - [기초 ( + class_method(static_method), 추상 클래스(abstract) )](https://github.com/yahwang/python-note/tree/master/basics/class.ipynb)  
      - [캡슐화에서 정보은닉 - 접근지정자[public, protected, private] (+ property )](https://github.com/yahwang/python-note/tree/master/basics/class_private.ipynb)  
 
-- [Generator](https://github.com/yahwang/python-note/blob/master/generator_tutorial.ipynb)
-- [queue & deque](https://github.com/yahwang/python-note/blob/master/queue&deque.ipynb) 
-- thread & multiprocessing
+- [Generator에 대한 이해](https://github.com/yahwang/python-note/blob/master/generator_tutorial.ipynb)
+- Thread
+  - [CPython의 GIL에 대한 이해](https://yahwang.github.io/posts/70)
+
 - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)](https://github.com/yahwang/python-note/blob/master/typehint.ipynb) 
+- [queue & deque](https://github.com/yahwang/python-note/blob/master/queue&deque.ipynb) 
+
 - 부가적
   - [tqdm - progress bar로 반복문 진행상황 시각화](https://github.com/yahwang/python-note/tree/master/others/tqdm.ipynb) 
   - [profiling - 코드 실행 시간, 메모리 사용량 확인](https://github.com/yahwang/python-note/tree/master/others/profiling.ipynb) 
