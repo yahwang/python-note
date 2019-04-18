@@ -17,7 +17,8 @@
 - [queue & deque](https://github.com/yahwang/python-note/blob/master/queue&deque.ipynb) 
 
 - 부가적
-  - [tqdm - progress bar로 반복문 진행상황 시각화](https://github.com/yahwang/python-note/tree/master/others/tqdm.ipynb) 
+  - [tqdm - progress bar로 반복문 진행상황 시각화](https://github.com/yahwang/python-note/tree/master/others/tqdm.ipynb)
+  - [logging - 파이썬 로그 관리 ](https://github.com/yahwang/python-note/blob/master/logging_tutorial.ipynb)
   - [profiling - 코드 실행 시간, 메모리 사용량 확인](https://github.com/yahwang/python-note/tree/master/others/profiling.ipynb) 
 
 - [numpy](https://github.com/yahwang/python-note/tree/master/numpy)
