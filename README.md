@@ -11,6 +11,7 @@
 - [Generator에 대한 이해](https://github.com/yahwang/python-note/blob/master/generator_tutorial.ipynb)
 - Thread
   - [CPython의 GIL에 대한 이해](https://yahwang.github.io/posts/70)
+  - [threading 라이브러리 추가 사용법](https://github.com/yahwang/python-note/blob/master/threading_usage.ipynb)
 
 - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)](https://github.com/yahwang/python-note/blob/master/typehint.ipynb) 
 - [queue & deque](https://github.com/yahwang/python-note/blob/master/queue&deque.ipynb) 
