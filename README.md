@@ -13,9 +13,10 @@
   - [CPython의 GIL에 대한 이해](https://yahwang.github.io/posts/70)
   - [Thread 사용에 대한 이해](https://github.com/yahwang/python-note/blob/master/thread_tutorial.ipynb)
   - [threading 라이브러리 추가 사용법](https://github.com/yahwang/python-note/blob/master/threading_usage.ipynb)
+- [queue & stack 활용하기](https://github.com/yahwang/python-note/blob/master/queue&stack_tutorial.ipynb) 
 
 - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)](https://github.com/yahwang/python-note/blob/master/typehint.ipynb) 
-- [queue & deque](https://github.com/yahwang/python-note/blob/master/queue&deque.ipynb) 
+
 
 - 부가적
   - [tqdm - progress bar로 반복문 진행상황 시각화](https://github.com/yahwang/python-note/tree/master/others/tqdm.ipynb)
