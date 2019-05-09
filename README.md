@@ -14,6 +14,7 @@
   - [Thread 사용에 대한 이해](https://github.com/yahwang/python-note/blob/master/thread_tutorial.ipynb)
   - [threading 라이브러리 추가 사용법](https://github.com/yahwang/python-note/blob/master/threading_usage.ipynb)
 - [queue & stack 활용하기](https://github.com/yahwang/python-note/blob/master/queue&stack_tutorial.ipynb) 
+  - [priority_queue 구현](https://github.com/yahwang/python-note/blob/master/priority_queue.ipynb)  
 
 - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)](https://github.com/yahwang/python-note/blob/master/typehint.ipynb) 
 
