@@ -24,6 +24,7 @@
   - [logging - 파이썬 로그 관리 ](https://github.com/yahwang/python-note/tree/master/others/logging_tutorial.ipynb)
   - [profiling - 코드 실행 시간, 메모리 사용량 확인](https://github.com/yahwang/python-note/tree/master/others/profiling.ipynb) 
   - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)](https://github.com/yahwang/python-note/tree/master/others/typehint.ipynb) 
+  - [Map vs List comprehension in Python](https://dev.to/lyfolos/map-vs-list-comprehension-in-python-2ljj)
 
 
 - [numpy](https://github.com/yahwang/python-note/tree/master/numpy)
