@@ -11,7 +11,8 @@
 
 - [Generator에 대한 이해](https://github.com/yahwang/python-note/blob/master/generator_tutorial.ipynb)
 - [파이썬 코딩테스트 유용팁](https://github.com/yahwang/python-note/blob/master/python_coding_tips.ipynb)
-- [queue & stack 활용하기](https://github.com/yahwang/python-note/blob/master/queue&stack_tutorial.ipynb) 
+- [queue 활용하기](https://github.com/yahwang/python-note/blob/master/queue_tutorial.ipynb) 
+- [stack 활용하기](https://github.com/yahwang/python-note/blob/master/stack_tutorial.ipynb) 
   - [priority_queue 구현](https://github.com/yahwang/python-note/blob/master/priority_queue.ipynb)  
 
 - Thread
