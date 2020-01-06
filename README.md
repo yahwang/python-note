@@ -1,5 +1,7 @@
 # python-note
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yahwang/python-note/master/?urlpath=lab)
+
 ### 기초
  - [파이썬의 특징 및 call_by_object_reference]( basics/object_reference.ipynb)
  - [기본 타입(Str, List, Tuple, Dict) 다루기]( basics/basic_type.ipynb)
@@ -25,12 +27,12 @@
    - [threading 라이브러리 추가 사용법]( data_structure/threading_usage.ipynb)
 
 ### 심화
-  - [tqdm - progress bar로 반복문 진행상황 시각화]( intensive/tqdm.ipynb)
-  - [logging - 파이썬 로그 관리 ]( intensive/logging_tutorial.ipynb)
-  - [profiling - 코드 실행 시간, 메모리 사용량 확인하는 법]( intensive/profiling.ipynb) 
-  - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)]( intensive/typehint.ipynb) 
+
+ - [tqdm - progress bar로 반복문 진행상황 시각화]( intensive/tqdm.ipynb)
+ - [logging - 파이썬 로그 관리 ]( intensive/logging_tutorial.ipynb)
+ - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)]( intensive/typehint.ipynb) 
  
 ### 기타
 
- - [파이썬 코딩테스트 유용팁]( python_coding_tips.ipynb)
  - :page_facing_up: [Python memory 관리(gc)에 관한 글](https://easydata.engineering/python-memory-management-in-jupyter-notebook)
+ - [profiling - 코드 실행 시간, 메모리 사용량 확인하는 법]( intensive/profiling.ipynb) 
