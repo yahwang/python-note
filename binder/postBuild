@@ -1,1 +1,4 @@
 set -ex
+
+jupyter labextension install \
+    @jupyter-widgets/jupyterlab-manager
