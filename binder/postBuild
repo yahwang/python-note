@@ -1,4 +1,5 @@
 set -ex
 
 jupyter labextension install \
-    @jupyter-widgets/jupyterlab-manager
+    @jupyter-widgets/jupyterlab-manager \
+    @jupyterlab/toc
