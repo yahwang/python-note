@@ -4,7 +4,7 @@
 
 ### 기초
  - [파이썬의 특징 및 call_by_object_reference]( basics/object_reference.ipynb)
- - [기본 타입(Str, List, Tuple, Dict) 다루기]( basics/basic_type.ipynb)
+ - [기본 타입(Str, List, Tuple, Dict, Set) 다루기]( basics/basic_type.ipynb)
  - [문자열(String) Formatting 정리 with f-Strings]( basics/string_format.ipynb)
  - [기본 타입 정렬 (sort)에 대한 정리]( basics/summary_sort.ipynb)
  - [유용한 기본 함수(zip, enumerate, ...)]( basics/extra_func.ipynb)
