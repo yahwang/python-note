@@ -2,9 +2,10 @@ channels:
 - conda-forge
 dependencies:
 - python=3.7
-- jupyterlab=1.2
-- nodejs=10
+- jupyterlab>=2.0
+- nodejs>=10
 - black
+- pip
 - pip:
     - nb_black
     - tqdm
