@@ -16,7 +16,6 @@
  
 ### 자료구조
 
- - :page_facing_up: [Map vs List comprehension 비교하는 글](https://dev.to/lyfolos/map-vs-list-comprehension-in-python-2ljj)
  - [Generator에 대한 이해]( data_structure/generator_tutorial.ipynb)
  - [queue 활용하기]( data_structure/queue_tutorial.ipynb) 
  - [stack 활용하기]( data_structure/stack_tutorial.ipynb) 
@@ -25,15 +24,18 @@
    - :page_facing_up: [CPython의 GIL에 대한 이해 (블로그)](https://yahwang.github.io/posts/70)
    - [Thread 사용에 대한 이해]( data_structure/thread_tutorial.ipynb)
    - [threading 라이브러리 추가 사용법]( data_structure/threading_usage.ipynb)
+ - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)]( intensive/typehint.ipynb)
 
 ### 심화
 
+ - :page_facing_up: [Python memory 관리(gc)에 관한 글](https://easydata.engineering/python-memory-management-in-jupyter-notebook)
  - [logging - 파이썬 로그 관리 ]( intensive/logging_tutorial.ipynb)
- - [type hint - python type을 static하게 활용 (3.5부터 지원 + mypy & pyre와 함께 활용)]( intensive/typehint.ipynb) 
+ 
  
 ### 기타
 
- - :page_facing_up: [Python memory 관리(gc)에 관한 글](https://easydata.engineering/python-memory-management-in-jupyter-notebook)
  - [profiling - 코드 실행 시간, 메모리 사용량 확인하는 법]( etc/profiling.ipynb) 
  - [tqdm - progress bar로 반복문 진행상황 시각화]( etc/tqdm.ipynb)
+ - [atexit - Python ㅍ로그램 종료 시 실행되는 handler 함수 설정]( etc/atexit.ipynb)
+ - [argparse - command 명령어 parameter 설정 ]( etc/argparse.ipynb)
 
